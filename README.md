@@ -13,7 +13,7 @@ Summarize exploration of interesting problems and simpler variants that we can u
 -make strong statements about forces, torque, p/k energy
  - need to remind ourselves about polar coordinates and angular motion
  - $\vec{f}_g = -mg\hat{y}$
- - $ \omega = 2/pi f =2\pi/T$
+ - $\omega = 2\pi f = 2\pi\T$
 
 - what do we remember about a pendulum
  - simple harmonic motion](_when_)
