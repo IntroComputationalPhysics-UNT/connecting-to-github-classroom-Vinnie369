@@ -1,15 +1,15 @@
-# exploring of interesting problems involving driven oscillators/pendulums
-summartize exploration of interesting problems and simpler variants that we can use to orient our understanding
+# Exploring of interesting problems involving driven oscillators/pendulums
+Summarize exploration of interesting problems and simpler variants that we can use to orient our understanding
 
-## some interesting questions to explore
+## Some interesting questions to explore
 - how do we calculate the center of mass
  - ... and how do we approach this problem if its not rigid?
 - can we understand the dynamics of the driven rigid pendulum?
  - is there a closed-form solution?
 - how do things change when the pendulum motion affects the drivers motion?
 
-### driven rigid pendulum
-**what do we know about pendulum motion:**
+### Driven rigid pendulum
+**What do we know about pendulum motion:**
 -make strong statements about forces, torque, p/k energy
  - need to remind ourselves about polar coordinates and angular motion
  - $\vec{f}_g = -mg\hat{y}$
